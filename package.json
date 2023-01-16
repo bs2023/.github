@@ -1,0 +1,19 @@
+{
+  "name": "bs2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runMe.js",
+  "scripts": {
+    "test": "sh ./runMe.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bs2023/.github.git"
+  },
+  "author": "Anders Pippi Tednes [ungtb10d] (blckswan)",
+  "license": "SEE LICENSE IN 16118736501",
+  "bugs": {
+    "url": "https://github.com/bs2023/.github/issues"
+  },
+  "homepage": "https://github.com/bs2023/.github#readme"
+}
